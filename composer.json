@@ -1,0 +1,10 @@
+{
+    "name": "luke/poshmark_scripts",
+    "authors": [
+        {
+            "name": "Luke Snider",
+            "email": "luke946@gmail.com"
+        }
+    ],
+    "require": {}
+}
