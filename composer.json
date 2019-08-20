@@ -6,5 +6,15 @@
             "email": "luke946@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": { 
+            "PoshmarkScripts\\": "src/" 
+        }
+    },
+    "require": {
+        "facebook/webdriver": "^1.7",
+        "petrknap/php-singleton": "^1.0"
+    },
+    "require-dev": {
+    }
 }
